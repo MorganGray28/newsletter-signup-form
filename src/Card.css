@@ -2,9 +2,10 @@
   display: flex;
   width: 950px;
   background-color: var(--clr-white);
-  padding: 2rem;
+  padding: 1.5rem;
   border-radius: 2rem;
   color: var(--clr-dark-slate-grey);
+  box-shadow: 0px 7px 35px rgb(0 0 0 / 30%);
 }
 
 .card-left {
@@ -12,11 +13,11 @@
 }
 
 .card-right {
-  width: 75%;
+  width: 60%;
   background-image: url('./assets/illustration-sign-up-desktop.svg');
   background-position: center;
   background-size: cover;
-  border-radius: var(--br-smaller);
+  border-radius: var(--br-bigger);
 }
 
 .content-header {

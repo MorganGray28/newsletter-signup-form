@@ -5,6 +5,7 @@
   padding: 3rem;
   border-radius: 2rem;
   color: var(--clr-dark-slate-grey);
+  box-shadow: 0px 7px 35px rgb(0 0 0 / 30%);
 }
 
 .msg-icon {
